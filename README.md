@@ -1,5 +1,36 @@
 # [Media Search bot](https://github.com/GitHubsantu/Media_search__bot)
 
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
+  </a>
+  <a href="https://t.me/GitCodex">
+    <img src="https://github.com/GitHubsantu/PyrogramGenStr/blob/main/resources/madebycodex-badge_copy_250x56.png" width="250">
+  </a><br>
+  <a href="https://t.me/GitCodex">
+    &nbsp;<img src="https://img.shields.io/badge/GitCode%20%F0%9D%95%8F%20-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+  </a>
+  <a href="https://t.me/GitCodex">
+    &nbsp;<img src="https://img.shields.io/badge/GitCode%20%F0%9D%95%8F%20-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+  </a>
+  <br>
+  <a href="https://github.com/GitHubsantu/File-Sharing-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/GitHubsantu/File-Sharing-Bot?style=social">
+  </a>
+  <a href="https://github.com/GitHubsantu/File-Sharing-Bot/fork">
+    <img src="https://img.shields.io/github/forks/GitHubsantu/File-Sharing-Bot?label=Fork&style=social">
+  </a>  
+</p>
+
+
+Telegram Bot to store Posts and Documents and it can Access by Special Links.
+I Guess This Will Be Usefull For Many People.....😇. 
+
+##
+
+**If you need any more modes in repo or If you find out any bugs, mention in [@Gitcodexsupport ](https://www.telegram.dog/GitCodex)**
+
+
 * Index channel or group files for inline search.
 * When you post file on telegram channel or group this bot will save that file in database, so you can search easily in inline mode.
 * Supports document, video and audio file formats with caption support.
